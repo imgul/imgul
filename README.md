@@ -1,4 +1,6 @@
-# 👋 Hi Stranger
+# 👋 Hi Stranger, I'm
+
+![Muhammad Gulzaib](header-gul.png)
 
 - 👀 I’m interested in finding real life problems and their suitable solutions.
 - 🌱 I’m currently learning new tools in Frontend Development.
