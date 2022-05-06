@@ -4,10 +4,13 @@
 
 ### <div align="center">Full-time frontend freelance developer 👨‍💻 working remotely since 2021 🚀</div>
 
-- 👀 I’m interested in finding real life problems and their suitable solutions.
-- 🌱 I’m currently learning new tools in Frontend Development.
-- 💞️ I’m looking to collaborate with the best communities, finding problems and their ultimate solutions.
-- 📫 Want to discuss something with me? Just Connect with Me.
+- 🔭 I’m currently working on Open Source
+- 🌱 I’m currently learning new tools in Frontend
+- 👀 I’m interested in finding real life problems and their suitable solutions
+- 💞️ I’m looking to collaborate with the best communities, finding problems and their suitable solutions
+- 💬 Ask me about anything related to Frontend
+- 📫 How to reach me: [@iigulzaib](https://twitter.com/iigulzaib) on Twitter
+- ⚡ Fun fact: I use 50+ browser tabs while working on a single project 😀  
 
 <!---
 imgul/imgul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
