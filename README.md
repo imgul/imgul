@@ -18,7 +18,7 @@
 ### Frontend
 
 <!-- Languages and Framworks -->
-<div align="center">
+<div align="right">
 <img style="margin: 10px" src="logos/html5-original-wordmark.svg" title="HTML 5" alt="HTML5" height="50" />
 <img style="margin: 10px" src="logos/css3-original-wordmark.svg" title="CSS 3" alt="CSS3" height="50" />
 <img style="margin: 10px" src="logos/sass-original.svg" title="SASS - CSS Preprocessor" alt="Sass" height="50" />
@@ -31,12 +31,14 @@
 
 ### Grahics Designing
 
+<div align="left">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+</div>
 
 <!-- Others -->
 
