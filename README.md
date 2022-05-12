@@ -32,12 +32,12 @@
 ### Grahics Designing
 
 <div align="left">
-<img style="margin: 10px" src="logos/photoshop-cc-logo-png-transparent.webp" alt="Photoshop" height="50" />
-<img style="margin: 10px" src="logos/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
-<img style="margin: 10px" src="logos/adobe-premiere-pro.png" alt="Premiere Pro" height="50" />
-<img style="margin: 10px" src="logos/lightroom.png" alt="Lightroom" height="50" />
-<img style="margin: 10px" src="logos/adobe-xd.png" alt="Adobe XD" height="50" />
-<img style="margin: 10px" src="logos/figma-icon.svg" alt="Figma" height="50" />
+<img style="margin: 10px" src="logos/photoshop-cc-logo-png-transparent.webp" title="Adobe Photoshop" alt="Photoshop" height="50" />
+<img style="margin: 10px" src="logos/adobe_illustrator-icon.svg" title="Adobe illustrator" alt="Illustrator" height="50" />
+<img style="margin: 10px" src="logos/adobe-premiere-pro.png" title="Adobe Premiere Pro" alt="Premiere Pro" height="50" />
+<img style="margin: 10px" src="logos/lightroom.png" title="Adobe Lightroom" alt="Lightroom" height="50" />
+<img style="margin: 10px" src="logos/adobe-xd.png" title="Adobe XD" alt="Adobe XD" height="50" />
+<img style="margin: 10px" src="logos/figma-icon.svg" title="Figma" alt="Figma" height="50" />
 </div>
 
 <!-- Others -->
