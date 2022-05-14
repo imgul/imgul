@@ -25,7 +25,7 @@
 <img style="margin: 10px" src="logos/Tailwind-CSS-Logo.webp" title="Tailwind CSS" alt="Tailwind Css" height="40" />
 <img style="margin: 10px" src="logos/bootstrap.webp" title="Bootstrap 5" title="Bootstrap" alt="Bootstrap" height="50" />
 <img style="margin: 10px" src="logos/bem.svg" title="BEM" alt="BEM" height="50" />
-</div>
+
 <!-- JavaScript -->
 <img style="margin: 10px" src="logos/javascript-original.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="logos/typescript-original.svg" alt="TypeScript" title="TypeScript" height="50" />
@@ -37,6 +37,7 @@
 <img style="margin: 10px" src="logos/webpack-original.svg" alt="Webpack" title="Webpack" height="50" />
 <img style="margin: 10px" src="logos/graphql.png" alt="GraphQL" title="GraphQL" height="50" />
 <img style="margin: 10px" src="logos/gatsby.png" alt="Gatsby" title="Gatsby" height="50" />
+</div>
 
 <!-- Graphics Designing -->
 ### Grahics Designing
