@@ -56,6 +56,21 @@
 <img style="margin: 10px" src="logos/electron-original.svg" title="Eclectron JS" alt="Electron" height="50" />
 </div>
 
+### DevOps  
+
+<div align="left">  
+<img style="margin: 10px" src="logos/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" height="50" />
+<img style="margin: 10px" src="logos/linux-original.svg" title="Linux" alt="Linux" height="50" />
+<img style="margin: 10px" src="logos/git-scm-icon.svg" title="Git" alt="Git" height="50" />
+<img style="margin: 10px" src="logos/bash-logo-300x300.webp" title="Bash" alt="Bash" height="50" />
+<img style="margin: 10px" src="logos/gitlab.svg" title="GitLab" alt="GitLab" height="50" />
+<img style="margin: 10px" src="logos/aws_logo-100781597-large.webp" title="AWS" alt="AWS" height="50" />
+<img style="margin: 10px" src="logos/google_cloud-icon.svg" title="Google Cloud" alt="GCP" height="50" />
+<img style="margin: 10px" src="logos/nginx-original.svg" title="nginx" alt="Nginx" height="50" />
+<img style="margin: 10px" src="logos/docker-original-wordmark.svg" title="Docker" alt="Docker" height="50" />
+<img style="margin: 10px" src="logos/powershell.png" title="Powershell" alt="PowerShell" height="50" />
+</div>
+
 <!-- Graphics Designing -->
 ### Grahics Designing
 
