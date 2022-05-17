@@ -119,3 +119,9 @@
 <img src="logos/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 </div>
+
+<br/>  
+
+## Github Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
