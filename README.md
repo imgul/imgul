@@ -124,9 +124,7 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<<<<<<< HEAD
-=======
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=merko&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br>
 
@@ -138,4 +136,3 @@
         <img src="https://img.shields.io/badge/Send%20Gift-Gift%20Me%20A%20Hot%20Coffee-red.svg?style=flat-square&logo=buymeacoffee" align="center" />
     </a>
 </div> -->
->>>>>>> origin/main
