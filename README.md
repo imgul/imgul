@@ -1,6 +1,10 @@
+
 # 👋 Hi Stranger
 
 ![Muhammad Gulzaib](header.png)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
+</div>
 
 ### <div align="center">Full-time frontend freelance developer 👨‍💻 working remotely since 2021 🚀</div>
 
