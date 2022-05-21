@@ -2,7 +2,7 @@
 # 👋 Hi Stranger
 
 ![Muhammad Gulzaib](header.png)
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
 </div>
 
