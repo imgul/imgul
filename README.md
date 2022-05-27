@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Open Source Web Components](https://github.com/imgul/html-css-js-web-compnents)
 - 🌱 I’m currently learning MERN Stack
-- 👀 I’m interested in community work
+- 👀 I’m interested in team work
 - 💞️ I’m looking to collaborate with the best communities, finding problems and their suitable solutions
 - 💬 Ask me about anything related to Frontend
 - 📫 Don't be stranger, [Connect With Me](#grahics-designing) on Social Media
