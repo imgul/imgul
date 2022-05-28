@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Open Source Web Components](https://github.com/imgul/html-css-js-web-compnents)
 - 🌱 I’m currently learning MERN Stack
 - 👀 I’m interested in Team Work
-- 💞️ I’m looking for collaboration
+- 💞️ I’m looking for collaborations
 - 💬 Ask me about anything related to Frontend
 - 📫 Don't be stranger, [Connect With Me](#grahics-designing) on Social Media
 - ⚡ Fun fact: I use 50+ browser tabs while working on a single project 😀  
