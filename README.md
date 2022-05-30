@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 👀 I’m interested in Team Work
 - 💞️ I’m looking for collaboration
-- 💬 Ask me about anything related to Frontend
+- 💬 Ask me about anything related to Frontend Development, UI/UX Design and React JS
 - 📫 Don't be stranger, [Connect With Me](#grahics-designing) on Social Media
 - ⚡ Fun fact: I use 50+ browser tabs while working on a single project 😀  
 <br>
