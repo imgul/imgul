@@ -14,7 +14,7 @@
 - 👀 I’m interested in finding real life problems and their suitable solutions
 - 💞️ I’m looking to collaborate with the best communities, finding problems and their suitable solutions
 - 💬 Ask me about anything related to Frontend
-- 📫 Don't be strnger, [Connect With Me](#grahics-designing) on Social Media
+- 📫 Don't be stranger, [Connect With Me](#grahics-designing) on Social Media
 - ⚡ Fun fact: I use 50+ browser tabs while working on a single project 😀  
 <br>
 
