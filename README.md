@@ -53,7 +53,6 @@
 <img style="margin: 10px" src="logos/terraformio-icon.svg" title="Terraform" alt="Terraform" height="40" />
 <img style="margin: 10px" src="logos/wordpress.png" title="WordPress" alt="WordPress" height="40" />
 <img style="margin: 10px" src="logos/nestjs.svg" title="NestJS" alt="NestJS" height="40" />
-<img style="margin: 10px" src="logos/nuxt.png" title="Nuxt JS" alt="Nuxt JS" height="40" />
 <img style="margin: 10px" src="logos/backbonejs-original-wordmark.svg" title="Backbone JS" alt="Backbone.js" height="40" />
 <img style="margin: 10px" src="logos/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="40" />
 <img style="margin: 10px" src="logos/xampp.png" title="XAMPP" alt="XAMPP" height="40" />
@@ -69,7 +68,6 @@
 <img style="margin: 10px" src="logos/git-scm-icon.svg" title="Git" alt="Git" height="40" />
 <img style="margin: 10px" src="logos/bash-logo-300x300.webp" title="Bash" alt="Bash" height="40" />
 <img style="margin: 10px" src="logos/gitlab.svg" title="GitLab" alt="GitLab" height="40" />
-<img style="margin: 10px" src="logos/aws_logo-100781597-large.webp" title="AWS" alt="AWS" height="40" />
 <img style="margin: 10px" src="logos/google_cloud-icon.svg" title="Google Cloud" alt="GCP" height="40" />
 <img style="margin: 10px" src="logos/nginx-original.svg" title="nginx" alt="Nginx" height="40" />
 <img style="margin: 10px" src="logos/docker-original-wordmark.svg" title="Docker" alt="Docker" height="40" />
