@@ -133,7 +133,7 @@
 <br>
 
 <!-- Streak -->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=dark" alt="imgul" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=highcontrast" alt="imgul" /></div>
 
 <br>
 
