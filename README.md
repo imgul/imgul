@@ -14,7 +14,7 @@
 - 👀 I’m interested in finding real life problems and their suitable solutions
 - 💞️ I’m looking to collaborate with the best communities, finding problems and their suitable solutions
 - 💬 Ask me about anything related to Frontend
-- 📫 How to reach me: [@iigulzaib](https://twitter.com/iigulzaib) on Twitter
+- 📫 How to reach me: [Connect With Me](#connect-with-me) on Social Media
 - ⚡ Fun fact: I use 50+ browser tabs while working on a single project 😀  
 <br>
 
