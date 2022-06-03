@@ -128,7 +128,7 @@
 ## Github Stats
 
 <!-- Stats -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=jolly&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
 
 <br>
 
@@ -138,12 +138,7 @@
 <br>
 
 <!-- Most Used Language -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&layout=compact&theme=jolly&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
-
-<br>
-
-<!-- Most Used Language -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=imgul&theme=jolly&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
 
 <br>
 
