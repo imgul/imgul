@@ -142,6 +142,11 @@
 
 <br>
 
+<!-- Most Used Language -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=imgul&theme=github_dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
+
+<br>
+
 <!-- Views Couner -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
