@@ -75,7 +75,7 @@
 </div>
 
 <!-- Graphics Designing -->
-### Grahics Designing
+### Graphics and UI/UX Designing
 
 <div align="left">
 <img style="margin: 10px" src="logos/photoshop-cc-logo-png-transparent.webp" title="Adobe Photoshop" alt="Photoshop" height="40" />
