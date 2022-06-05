@@ -91,6 +91,8 @@
 ## Connect with me  
 
 > Voila! One more friend
+> <br>
+> Let's celebrate our new friendship
 <div align="center">
 <a href="https://github.com/imgul" target="_blank">
 <img src="logos/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
