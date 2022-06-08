@@ -1,10 +1,9 @@
 # 🙋🏻 About Me
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
+<!-- Header Image -->
+<div align="center">
+<img src="header.png" align="center" width="1280"/>
 </div>
-
-![Muhammad Gulzaib](header.png)
 
 ### <div align="center">Full-time frontend freelance developer 👨‍💻 working remotely since 2021 🚀</div>
 
@@ -132,7 +131,7 @@
 # 📊 My Github Stats
 
 <!-- Stats -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" width="1280" /></div>
 
 <br>
 
