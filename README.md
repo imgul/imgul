@@ -136,18 +136,18 @@
 <br>
 
 <!-- Streak -->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=highcontrast" alt="imgul" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=highcontrast" alt="imgul" width="1280"/></div>
 
 <br>
 
 <!-- Most Used Language -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" width="1280"/></div>
 
 <br>
 
-<!-- Views Couner -->
+<!-- Wakatime Couner -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib" align="center" width="1280"/>
 </div>
 
 <br>
