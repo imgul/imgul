@@ -93,6 +93,7 @@
 > Voila! One more friend
 > <br>
 > Let's celebrate our new friendship
+
 <div align="center">
 <a href="https://github.com/imgul" target="_blank">
 <img src="logos/github-%2324292e.svg" alt=github style="margin-bottom: 5px;" />
@@ -145,13 +146,14 @@
 
 <br>
 
-<!-- Wakatime Couner -->
+<!-- Wakatime Stats -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib" align="center" width="1280"/>
+<img src="https://wakatime.com/share/@gulzaib/8a88d2ad-1214-4b72-92d6-71777dfa8afd.png" align="center" width="1280"/>
 </div>
 
 <br>
 
+<!-- Badges -->
 <!-- Views Couner -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
