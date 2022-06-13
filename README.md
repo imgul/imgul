@@ -148,7 +148,7 @@
 
 <!-- Wakatime Stats -->
 <div align="center">
-<img src="https://wakatime.com/share/@gulzaib/8a88d2ad-1214-4b72-92d6-71777dfa8afd.png" align="center" width="1280"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib" align="center" width="1280"/>
 </div>
 
 <br>
