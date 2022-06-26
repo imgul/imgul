@@ -150,6 +150,11 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib" align="center" width="1280"/>
 </div>
+<br>
+<!-- Wakatime Chart -->
+<div align="center">
+<img src="https://wakatime.com/share/@gulzaib/d61eba17-27d5-40d1-bf44-ea01d699a6f0.svg" align="center" width="1280"/>
+</div>
 
 <br>
 
