@@ -146,6 +146,8 @@
 
 <br>
 
+# ⏰ My Coding Time
+
 <!-- Wakatime Stats -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib" align="center" width="1280"/>
