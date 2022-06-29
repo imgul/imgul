@@ -146,17 +146,17 @@
 
 <br>
 
-# ⏰ My Coding Time
+<!-- # ⏰ My Coding Time -->
 
 <!-- Wakatime Stats -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib&theme=vision-friendly-dark" align="center" width="1280"/>
 </div>
-<br>
+<br> -->
 <!-- Wakatime Chart -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://wakatime.com/share/@gulzaib/d61eba17-27d5-40d1-bf44-ea01d699a6f0.svg" align="center" width="1280"/>
-</div>
+</div> -->
 
 <br>
 
