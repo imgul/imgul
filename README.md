@@ -163,7 +163,7 @@
 <!-- Badges -->
 <!-- Views Couner -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=imgul&style=for-the-badge" align="center" />
 </div>
 
 <!-- Wakatime -->
