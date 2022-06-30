@@ -145,6 +145,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" width="1280"/></div>
 
 <br>
+
 <!-- # ⏰ My Coding Time -->
 
 <!-- Wakatime Stats -->
