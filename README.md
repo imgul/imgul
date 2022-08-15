@@ -127,17 +127,15 @@
 
 <br/>  
 
-## Github Stats  
-<!-- Stats -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+## Github Stats
 
-<br>
 <!-- Streak -->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=dark" alt="imgul" /></div>
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=dark" alt="imgul" /></div>
+<!-- Stats -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=github_dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgul)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Most Used Language -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&layout=compact&theme=github_dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
 
 <br>
 
