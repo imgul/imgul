@@ -129,19 +129,27 @@
 
 ## Github Stats
 
-<!-- Streak -->
-<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=dark" alt="imgul" /></div>
 <!-- Stats -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=github_dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
+
+<br>
+
+<!-- Streak -->
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imgul&theme=dark" alt="imgul" /></div>
+
+<br>
 
 <!-- Most Used Language -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgul&layout=compact&theme=github_dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
 
 <br>
 
+<!-- Views Couner -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
 </div>
+
+<!-- Gift -->
 <div align="center">
     <a href="https://www.buymeacoffee.com/igul" target="_blank" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Send%20Gift-Gift%20Me%20A%20Hot%20Coffee-red.svg?style=flat-square&logo=buymeacoffee" align="center" />
