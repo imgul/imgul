@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imgul
+# 👋 Hi Stranger!
 - 👀 I’m interested in finding real life problems and their suitable solutions.
 - 🌱 I’m currently learning full-stack and block-chain.
 - 💞️ I’m looking to collaborate with the best communities, finding problems and their ultimate solutions.
