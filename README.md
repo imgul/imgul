@@ -8,7 +8,7 @@
 
 ### <div align="center">Full-time frontend freelance developer 👨‍💻 working remotely since 2021 🚀</div>
 
-### Hi Stranger! 
+### Hi Stranger!
 - 🔭 I’m currently working on [Open Source Web Components](https://github.com/imgul/html-css-js-web-compnents)
 - 🌱 I’m currently learning MERN Stack
 - 👀 I’m interested in Team Work
