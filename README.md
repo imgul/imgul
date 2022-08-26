@@ -18,9 +18,9 @@
 - ⚡ Fun fact: I use 50+ browser tabs while working on a single project 😀  
 <br>
 
-## My Skill Set  
+# 🚀 My Skill Set  
 
-### Frontend
+## Frontend
 
 <!-- Languages and Framworks -->
 <div align="left">
@@ -44,7 +44,7 @@
 <img style="margin: 10px" src="logos/gatsby.png" alt="Gatsby" title="Gatsby" height="40" />
 </div>
 
-### Backend  
+## Backend  
 
 <div align="left">  
 <img style="margin: 10px" src="logos/php-original.svg" title="PHP" alt="PHP" height="40" />
@@ -60,7 +60,7 @@
 <img style="margin: 10px" src="logos/electron-original.svg" title="Eclectron JS" alt="Electron" height="40" />
 </div>
 
-### DevOps  
+## DevOps  
 
 <div align="left">  
 <img style="margin: 10px" src="logos/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" height="40" />
@@ -75,7 +75,7 @@
 </div>
 
 <!-- Graphics Designing -->
-### Graphics and UI/UX Designing
+## Graphics and UI/UX Designing
 
 <div align="left">
 <img style="margin: 10px" src="logos/photoshop-cc-logo-png-transparent.webp" title="Adobe Photoshop" alt="Photoshop" height="40" />
@@ -88,7 +88,7 @@
 
 <br>
 
-## Connect with me  
+# 🧑🏻‍🤝‍🧑🏻 Connect with me  
 
 > Voila! One more friend
 > <br>
@@ -128,7 +128,7 @@
 
 <br/>  
 
-## Github Stats
+# 📊 My Github Stats
 
 <!-- Stats -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imgul&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
