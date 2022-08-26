@@ -1,5 +1,4 @@
-
-# 👋 Hi Stranger
+# 🙋🏻 About Me
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
@@ -9,12 +8,13 @@
 
 ### <div align="center">Full-time frontend freelance developer 👨‍💻 working remotely since 2021 🚀</div>
 
+### Hi Stranger! 
 - 🔭 I’m currently working on [Open Source Web Components](https://github.com/imgul/html-css-js-web-compnents)
 - 🌱 I’m currently learning MERN Stack
 - 👀 I’m interested in Team Work
 - 💞️ I’m looking for collaboration
 - 💬 Ask me about anything related to Frontend Development, UI/UX Design and React JS
-- 📫 Don't be stranger, [Connect With Me](#grahics-designing) on Social Media
+- 📫 Don't be **stranger**, [Connect With Me](#grahics-designing) on Social Media
 - ⚡ Fun fact: I use 50+ browser tabs while working on a single project 😀  
 <br>
 
