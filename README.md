@@ -82,3 +82,40 @@
 <img style="margin: 10px" src="logos/adobe-xd.png" title="Adobe XD" alt="Adobe XD" height="50" />
 <img style="margin: 10px" src="logos/figma-icon.svg" title="Figma" alt="Figma" height="50" />
 </div>
+
+<br>
+
+## Connect with me  
+
+<div align="center">
+<a href="https://github.com/imgul" target="_blank">
+<img src="logos/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/igulzaib" target="_blank">
+<img src="logos/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iigulzaib" target="_blank">
+<img src="logos/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/igulzaib" target="_blank">
+<img src="logos/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/code_uiux" target="_blank">
+<img src="logos/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/igulzaib" target="_blank">
+<img src="logos/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@gulzaib" target="_blank">
+<img src="logos/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt=hashnode style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@igulzaib" target="_blank">
+<img src="logos/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/gulzaib" target="_blank">
+<img src="logos/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/14986293/gulzaib" target="_blank">
+<img src="logos/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+</div>
