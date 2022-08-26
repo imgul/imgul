@@ -148,7 +148,19 @@
 
 <!-- Views Couner -->
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gulzaib" align="center" />
+</div>
+
+<br>
+
+<!-- Views Couner -->
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=imgul&style=flat-square" align="center" />
+</div>
+
+<!-- Wakatime -->
+<div align="center">
+<img src="https://wakatime.com/badge/user/c0310912-3bce-4f96-be43-c21b72939cdf.svg?style=flat-square" align="center" />
 </div>
 
 <!-- Gift -->
