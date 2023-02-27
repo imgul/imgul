@@ -101,13 +101,13 @@
 <a href="https://gitlab.com/igulzaib" target="_blank">
 <img src="logos/gitlab-330F63.svg" alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iigulzaib" target="_blank">
+<a href="https://twitter.com/gulzaib_dev" target="_blank">
 <img src="logos/twitter-%2300acee.svg" alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/igulzaib" target="_blank">
 <img src="logos/linkedin-%231E77B5.svg" alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/code_uiux" target="_blank">
+<a href="https://instagram.com/gulzaib_dev" target="_blank">
 <img src="logos/instagram-%23000000.svg" alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/igulzaib" target="_blank">
